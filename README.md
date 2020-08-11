@@ -1,5 +1,9 @@
 # YoutubeApp
 
+![](./screenshot.PNG)
+
+- Poner tu api key de la API de youtube antes de correr el servidor
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
 ## Development server
